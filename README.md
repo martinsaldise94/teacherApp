@@ -64,4 +64,17 @@ Gestiona la comunicación entre el cliente y la persistencia de datos.
 npm install
 npm run start-dev
 
+### 🎨 Frontend (React)
+
+Para iniciar la interfaz de usuario, retrocede al directorio raíz e ingresa a la carpeta de la aplicación cliente:
+
+```bash
+cd ..
+cd app-martin
+npm install
+npm start
+```
+
+Utilizando la contraseña admin en el usuario jefe@escuela.com se accederán a todos los usuarios y a la interfaz de la app
+
 
